@@ -1,2 +1,2 @@
 # Resources
-PDFs and Notes
+Notes and PDFs for courses.
